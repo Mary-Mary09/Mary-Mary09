@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil💙
 
-<!--
-**Mary-Mary09/Mary-Mary09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marielly Mendes
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura;](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utiloizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos;
+- ### Você pode entrar em contato comigo 📧
+  
+- 00001107851737sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/J4R3sa24bjAAAAAC/%D0%B0_%D1%87%D0%B5_%D1%82%D0%B0%D0%BA_%D0%BD%D0%B0%D0%B4%D0%BE_%D0%B1%D1%8B%D0%BB%D0%BE.gif
+)
+
+
